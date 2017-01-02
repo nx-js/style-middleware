@@ -1,0 +1,27 @@
+{
+  "name": "@nx-js/style-middleware",
+  "version": "1.0.0",
+  "description": "An NX middleware, responsible for dynamic styling.",
+  "main": "style.js",
+  "author": {
+    "name": "Miklos Bertalan",
+    "email": "miklos.bertalan@risingstack.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:nx-js/style-middleware.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nx-js/style-middleware/issues"
+  },
+  "homepage": "http://nx-framework.com",
+  "license": "MIT",
+  "keywords": [
+    "nx",
+    "middleware",
+    "style"
+  ],
+  "peerDependencies": {
+    "@nx-js/attributes-middleware": "^1.0.0"
+  }
+}
