@@ -8,7 +8,7 @@ The `style` middleware is responsible for dynamic styling.
 - processes: element nodes
 - throws on: nothing
 - use as: component or content middleware
-- [docs](http://nx-framework/docs/middlewares/style)
+- [docs](http://nx-framework.com/docs/middlewares/style)
 
 ## Installation
 
